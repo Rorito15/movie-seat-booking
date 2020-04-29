@@ -1,0 +1,24 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "name": "Avengers: EndGame",
+      "price": 12
+    },
+    {
+      "id": 2,
+      "name": "Joker",
+      "price": 8
+    },
+    {
+      "id": 3,
+      "name": "Toy Story 4",
+      "price": 10
+    },
+    {
+      "id": 4,
+      "name": "The Lion King",
+      "price": 9
+    }
+  ]
+}
